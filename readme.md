@@ -7,3 +7,4 @@ git reset HEAD^1
 
 ### git revert second
 
+revert commit 1,2
